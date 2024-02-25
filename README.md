@@ -8,3 +8,7 @@ ns-weapondraw is a script where when you pull out a weapon from your inventory (
 - Rename To 'ns-weapondraw'
 - Ensure It In Your Server.Cfg
 - Enjoy! :)
+
+# Notes
+
+- If you come across any bugs open a ticket and let me know in the NS Development discord.
