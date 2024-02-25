@@ -4,6 +4,7 @@ ns-weapondraw is a script where when you pull out a weapon from your inventory (
 # Installation
 
 - Click <> Code Then Click 'Download ZIP'
-- Once Downloaded Drag Into Your Resources Folder
+- Once Downloaded 'ns-weapondraw-main' Drag Into Your Resources Folder
+- Rename To 'ns-weapondraw'
 - Ensure It In Your Server.Cfg
 - Enjoy! :)
