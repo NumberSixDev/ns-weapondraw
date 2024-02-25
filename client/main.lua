@@ -1,3 +1,5 @@
+QBCore = exports['qb-core']:GetCoreObject()
+
 -- Register Weapons
 local weapons = {
     'WEAPON_KNIFE', 'WEAPON_SHIV', 'WEAPON_KATANA', 'WEAPON_NIGHTSTICK', 'WEAPON_BREAD',
