@@ -11,4 +11,4 @@ ns-weapondraw is a script where when you pull out a weapon from your inventory (
 
 # Notes
 
-- If you come across any bugs open a ticket and let me know in the NS Development discord.
+- If you come across any bugs or have any suggestions open a ticket and let me know in the NS Development discord found on my ReadMe.md on my GitHub Profile.
